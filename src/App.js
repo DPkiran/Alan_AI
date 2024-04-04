@@ -59,7 +59,7 @@ const App = () => {
         <div className={classes.footer}>
           <Typography variant="body1" component="h2">
             Created by
-            <a className={classes.link} href="https://www.linkedin.com/in/adrian-hajdin/"> Deepak kiran</a> -
+            <a className={classes.link} href="https://www.linkedin.com/in/deepak-kiran-58b3ba2b4/"> Deepak kiran</a> -
             <a className={classes.link} href="http://youtube.com/javascriptmastery">
               <p style={{ display: 'inline', color: 'black' }}>inspired by -</p> JavaScript Mastery
             </a>
